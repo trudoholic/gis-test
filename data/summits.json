@@ -1,0 +1,59 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5, 50]
+		},
+		"type": "Feature",
+		"properties": {
+			"elevation": 1770,
+			"name": "Aircraft"
+		},
+		"id": 472
+	}, {
+		"geometry": {
+			"type": "Point",
+			"coordinates": [10, 45]
+		},
+		"type": "Feature",
+		"properties": {
+			"elevation": 1831,
+			"name": "Helicopter"
+		},
+		"id": 458
+	}, {
+		"geometry": {
+			"type": "Point",
+			"coordinates": [15, 50]
+		},
+		"type": "Feature",
+		"properties": {
+			"elevation": 2364,
+			"name": "Cruise Missile"
+		},
+		"id": 487
+	}, {
+		"geometry": {
+			"type": "Point",
+			"coordinates": [20, 46]
+		},
+		"type": "Feature",
+		"properties": {
+			"elevation": 1856,
+			"name": "Drone"
+		},
+		"id": 5700
+	}, {
+		"geometry": {
+			"type": "Point",
+			"coordinates": [25, 50]
+		},
+		"type": "Feature",
+		"properties": {
+			"elevation": 2375,
+			"name": "UFO"
+		},
+		"id": 5644
+	}]
+}
